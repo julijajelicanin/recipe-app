@@ -25,3 +25,10 @@
     text-decoration: none;
     margin: 20px auto;
 }
+.ingridients{
+    display: flex;
+    align-items: center;
+}
+.ingridients button{
+    margin: 0 0 0 10px;
+}
